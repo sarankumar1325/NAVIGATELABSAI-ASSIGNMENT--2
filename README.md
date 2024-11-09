@@ -71,6 +71,10 @@ The classification tree achieved an accuracy of 100% on the test set, indicating
 ## Conclusion
 This CART implementation highlights the power of decision trees for classification tasks. The model was able to accurately predict job offers based on the defined attributes. Further testing on a larger dataset is recommended to assess generalization.
 
+## Authors
+- Ajinesh.D - 22am007
+- Sarankumar.S - 22am055
+- Gobika.R - 22am069
 ---
 
 ⭐ **Star this repository if you found it helpful!**
